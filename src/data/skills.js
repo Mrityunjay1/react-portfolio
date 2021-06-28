@@ -8,11 +8,15 @@ export const SkillsData=[
             },
             {
                 name:"Javascript",
-                icon:<i class="devicon-react-original colored"></i>
+                icon:<i class="devicon-javascript-plain colored"></i>
             },
             {
-                name:"Typescript",
-                icon:<i class="devicon-react-original colored"></i>
+                name:"HTML",
+                icon:<i class="devicon-html5-plain colored"></i>
+            },
+            {
+                name:"chakra-ui",
+                icon:<i class="devicon-css3-plain colored"></i>
             }
         ],
     },
@@ -21,7 +25,7 @@ export const SkillsData=[
         list:[
             {
                 name:"GraphQl",
-                icon:<i class="devicon-react-original colored"></i>
+                icon:<i class="devicon-graphql-plain colored"></i>
             }
         ]
     }
