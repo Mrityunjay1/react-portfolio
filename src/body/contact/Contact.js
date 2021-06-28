@@ -10,7 +10,7 @@ export default function Contact() {
             <label className="section-title">Contact</label>
             <div className="contact-container">
                 <div className="contact-left">
-                    <p>Hello moto</p>
+                    <p>Feel Free to Contact on the links provided</p>
                     <Social />
                 </div>
                 <div className="download">

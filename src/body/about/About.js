@@ -10,7 +10,7 @@ export default function About() {
                     Hello There,I am <br /> <span className="info-name">Mrutunjay Singh</span><br /> Love Coding FrontEnd.
                 </div>
                 <div className="about-photo">
-                    <img src={require('../../../src/assets/coding.png').default} className="picture"  alt="Photo-hero"/>
+                    <img src={require('../../../src/assets/coding.png').default} className="picture"  alt="new"/>
                 </div>
             </div>
             <Social />

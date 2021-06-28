@@ -33,6 +33,6 @@ export const Project=[
         tags:["react","JSON"],
         github:"https://github.com/Mrityunjay1/react-portfolio",
         demo:"https://adoring-mccarthy-125842.netlify.app/",
-        image:"https://res.cloudinary.com/practicaldev/image/fetch/s--PcaKpeMq--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/sxo9lsz4iql3ub8ob107.png"
+        image:"https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80"
     },
 ]
